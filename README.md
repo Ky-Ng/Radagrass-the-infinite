@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🔭 I’m currently working on Robot Localization for my role as Software Lead on Future 14473. See our repo: https://github.com/Future14473/Ultimate-Road-Runner.
-- 🌱 I’m currently learning Open CV and VISLAM for the 2021-2022 Freight Frenzy Season.
+- 🌱 I’m currently learning Open CV and VISLAM for the 2021-2022 [Freight Frenzy](https://info.firstinspires.org/firstforward?utm_source=first-inspires&utm_medium=promo&utm_campaign=fir-registration-022#hs_cos_wrapper_ftc_photo) Season.
 - 👯 I’m looking to collaborate on robotics projects that are looking for ways to increase automation.
 - 🤔 I’m looking for help with learning Motion Profiling for Differential Swerves and Mecanum drivetrains.
 - 💬 Ask me about anything Special Education and STEM teaching. http://serendipitySTEM.org
-- 📫 How to reach me: [electronic mail](mailto:ng.kyle101@gmail.com)
+- 📫 How to reach me: [ATLA Messenger Hawk](mailto:ng.kyle101@gmail.com)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Radagrass-the-infinite is inspired by Radagast-the-Brown from Lord of the Rings but I thought "the-infinite" is far more limitless.
