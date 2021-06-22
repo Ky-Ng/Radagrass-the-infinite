@@ -26,8 +26,7 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Radagrass-the-infinite&theme=algolia&show_icons=true)
 
-### Languages and Tools:
-Robotics
+### Robotics Languages and Tools:
 [<code>
 <img alt="Java" width="26px" src="https://i.pinimg.com/originals/e9/94/61/e99461fdd5b3db8bdb3081d8acf5e524.png" />
 </code>](https://www.java.com/en/)
@@ -40,6 +39,12 @@ Robotics
 [<code>
 <img alt="Vuforia" width="26px" src="https://www.ptc.com/dist/ptc/images/ptc-favicon-144x144-gray.png" />
 </code>](https://www.ptc.com/en/products/vuforia)
+[<code>
+<img alt="FIRST Tech Challenge SDK" width="26px" src="https://www.bostontechmom.com/wp-content/uploads/2019/03/FIRST-Logo.gif" />
+</code>](https://www.firstinspires.org/robotics/ftc)
+[<code>
+<img alt="intellij idea" width="26px" src="https://img.icons8.com/color/240/000000/intellij-idea.png" />
+</code>](https://www.jetbrains.com/idea/)
 
 Full Stack Development
 
@@ -47,7 +52,5 @@ Full Stack Development
 [<code>
 <img alt="visual studio code" width="26px" src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png" />
 </code>](https://code.visualstudio.com/)
-[<code>
-<img alt="intellij idea" width="26px" src="https://img.icons8.com/color/240/000000/intellij-idea.png" />
-</code>](https://www.jetbrains.com/idea/)
+
 
