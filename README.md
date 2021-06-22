@@ -48,13 +48,13 @@ Here are some ideas to get you started:
 
 ### Full Stack Development Languages and Tools:
 [<code>
-<img alt="Vue JS" width="50px" src="https://vuejs.org/images/logo.png" />
+<img alt="Vue JS" width="70px" src="https://vuejs.org/images/logo.png" />
 </code>](https://vuejs.org)
 [<code>
-<img alt="Vuetify JS" width="50px" src="https://seeklogo.com/images/V/vuetify-logo-3BCF73C928-seeklogo.com.png" />
+<img alt="Vuetify JS" width="60px" src="https://seeklogo.com/images/V/vuetify-logo-3BCF73C928-seeklogo.com.png" />
 </code>](https://vuetifyjs.com/en/)
 [<code>
-<img alt="Firebase" width="50px" src="https://brandslogos.com/wp-content/uploads/thumbs/firebase-logo-vector.svg" />
+<img alt="Firebase" width="60px" src="https://brandslogos.com/wp-content/uploads/thumbs/firebase-logo-vector.svg" />
 </code>](https://firebase.google.com)
 [<code>
 <img alt="Node JS" width="70px" src="https://cdn.iconscout.com/icon/free/png-512/node-js-1174925.png" />
