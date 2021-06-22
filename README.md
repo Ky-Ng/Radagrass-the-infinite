@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with learning Motion Profiling for Differential Swerves and Mecanum drivetrains.
 - 💬 Ask me about anything Special Education and STEM teaching. http://serendipitySTEM.org
 - 🥅 2021 Goal: Work on a project that makes my local community 1% better.
-- 📫 How to reach me: [ATLA Messenger Hawk](mailto:ng.kyle101@gmail.com)
+- 📫 How to reach me: [Messenger Hawk 🦅](mailto:ng.kyle101@gmail.com)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Radagrass-the-infinite is inspired by Radagast-the-Brown from Lord of the Rings but I thought "the-infinite" is far more limitless.
 
@@ -34,6 +34,12 @@ Robotics
 [<code>
 <img alt="Open CV" width="26px" src="https://opencv.org/wp-content/uploads/2020/07/cropped-OpenCV_logo_white_600x.png" />
 </code>](https://opencv.org)
+[<code>
+<img alt="Learn Road Runner" width="26px" src="https://www.learnroadrunner.com/assets/baby/baby-rr.svg" />
+</code>](https://www.learnroadrunner.com)
+<img alt="Vuforia" width="26px" src="https://www.ptc.com/dist/ptc/images/ptc-favicon-144x144-gray.png" />
+</code>](https://www.ptc.com/en/products/vuforia)
+
 Full Stack Development
 
 
