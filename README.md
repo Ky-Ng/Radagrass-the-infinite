@@ -37,6 +37,7 @@ Robotics
 [<code>
 <img alt="Learn Road Runner" width="26px" src="https://www.learnroadrunner.com/assets/baby/baby-rr.svg" />
 </code>](https://www.learnroadrunner.com)
+[<code>
 <img alt="Vuforia" width="26px" src="https://www.ptc.com/dist/ptc/images/ptc-favicon-144x144-gray.png" />
 </code>](https://www.ptc.com/en/products/vuforia)
 
