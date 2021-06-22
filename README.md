@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on robotics projects that are looking for ways to increase automation.
 - 🤔 I’m looking for help with learning Motion Profiling for Differential Swerves and Mecanum drivetrains.
 - 💬 Ask me about anything Special Education and STEM teaching. http://serendipitySTEM.org
-- 🥅 Senior Year Goal: Work on a project that makes my local community 1% better.
+- 🥅 2021 Goal: Work on a project that makes my local community 1% better.
 - 📫 How to reach me: [ATLA Messenger Hawk](mailto:ng.kyle101@gmail.com)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Radagrass-the-infinite is inspired by Radagast-the-Brown from Lord of the Rings but I thought "the-infinite" is far more limitless.
