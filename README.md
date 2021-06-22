@@ -46,11 +46,12 @@ Here are some ideas to get you started:
 <img alt="intellij idea" width="80px" src="https://img.icons8.com/color/240/000000/intellij-idea.png" />
 </code>](https://www.jetbrains.com/idea/)
 
-Full Stack Development
-
-
+### Full Stack Development Languages and Tools:
 [<code>
-<img alt="visual studio code" width="26px" src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png" />
-</code>](https://code.visualstudio.com/)
+<img alt="Vue JS" width="50px" src="https://vuejs.org/images/logo.png" />
+</code>](https://vuejs.org)
+[<code>
+<img alt="Vuetify JS" width="50px" src="https://seeklogo.com/images/V/vuetify-logo-3BCF73C928-seeklogo.com.png" />
+</code>](https://vuetifyjs.com/en/)
 
 
