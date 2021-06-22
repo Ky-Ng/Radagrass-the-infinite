@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 <img alt="FIRST Tech Challenge SDK" width="80px" src="https://www.bostontechmom.com/wp-content/uploads/2019/03/FIRST-Logo.gif" />
 </code>](https://www.firstinspires.org/robotics/ftc)
 [<code>
-<img alt="intellij idea" width="90px" src="https://img.icons8.com/color/240/000000/intellij-idea.png" />
+<img alt="intellij idea" width="80px" src="https://img.icons8.com/color/240/000000/intellij-idea.png" />
 </code>](https://www.jetbrains.com/idea/)
 
 Full Stack Development
