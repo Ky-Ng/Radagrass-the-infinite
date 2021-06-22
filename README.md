@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 <img alt="Open CV" width="50px" src="https://opencv.org/wp-content/uploads/2020/07/cropped-OpenCV_logo_white_600x.png" />
 </code>](https://opencv.org)
 [<code>
-<img alt="Learn Road Runner" width="40px" src="https://www.learnroadrunner.com/assets/baby/baby-rr.svg" />
+<img alt="Learn Road Runner" width="50px" src="https://www.learnroadrunner.com/assets/baby/baby-rr.svg" />
 </code>](https://www.learnroadrunner.com)
 [<code>
 <img alt="Vuforia" width="70px" src="https://www.ptc.com/dist/ptc/images/ptc-favicon-144x144-gray.png" />
@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 <img alt="Vuetify JS" width="60px" src="https://seeklogo.com/images/V/vuetify-logo-3BCF73C928-seeklogo.com.png" />
 </code>](https://vuetifyjs.com/en/)
 [<code>
-<img alt="Firebase" width="60px" src="https://brandslogos.com/wp-content/uploads/thumbs/firebase-logo-vector.svg" />
+<img alt="Firebase" width="50px" src="https://brandslogos.com/wp-content/uploads/thumbs/firebase-logo-vector.svg" />
 </code>](https://firebase.google.com)
 [<code>
 <img alt="Node JS" width="70px" src="https://cdn.iconscout.com/icon/free/png-512/node-js-1174925.png" />
