@@ -43,8 +43,8 @@ Here are some ideas to get you started:
 <img alt="FIRST Tech Challenge SDK" width="80px" src="https://www.bostontechmom.com/wp-content/uploads/2019/03/FIRST-Logo.gif" />
 </code>](https://www.firstinspires.org/robotics/ftc)
 [<code>
-<img alt="intellij idea" width="80px" src="https://img.icons8.com/color/240/000000/intellij-idea.png" />
-</code>](https://www.jetbrains.com/idea/)
+<img alt="Android Studio" width="80px" src="https://techcrunch.com/wp-content/uploads/2020/10/image9.png" />
+</code>](https://developer.android.com/studio)
 
 ### Full Stack Development Languages and Tools:
 [<code>
@@ -53,5 +53,11 @@ Here are some ideas to get you started:
 [<code>
 <img alt="Vuetify JS" width="50px" src="https://seeklogo.com/images/V/vuetify-logo-3BCF73C928-seeklogo.com.png" />
 </code>](https://vuetifyjs.com/en/)
+[<code>
+<img alt="Firebase" width="50px" src="https://brandslogos.com/wp-content/uploads/thumbs/firebase-logo-vector.svg" />
+</code>](https://firebase.google.com)
+[<code>
+<img alt="intellij idea" width="80px" src="https://img.icons8.com/color/240/000000/intellij-idea.png" />
+</code>](https://www.jetbrains.com/idea/)
 
 
