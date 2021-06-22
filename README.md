@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 <img alt="Android Studio" width="80px" src="https://techcrunch.com/wp-content/uploads/2020/10/image9.png" />
 </code>](https://developer.android.com/studio)
 
-### 🖥  Full Stack Development Languages and Tools 🖥
+### 🖥  Full Stack Development Languages and Tools  🖥
 [<code>
 <img alt="Vue JS" width="70px" src="https://vuejs.org/images/logo.png" />
 </code>](https://vuejs.org)
