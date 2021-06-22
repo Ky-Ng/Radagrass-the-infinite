@@ -63,5 +63,5 @@ Here are some ideas to get you started:
 <img alt="Node Package Manager" width="70px" src="https://authy.com/wp-content/uploads/npm-logo.png" />
 </code>](https://www.npmjs.com)
 [<code>
-<img alt="intellij idea" width="70px" src="https://img.icons8.com/color/240/000000/intellij-idea.png" />
+<img alt="intellij idea" width="75px" src="https://img.icons8.com/color/240/000000/intellij-idea.png" />
 </code>](https://www.jetbrains.com/idea/)
