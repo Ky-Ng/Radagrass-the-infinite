@@ -26,3 +26,12 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Radagrass-the-infinite&theme=algolia&show_icons=true)
 
+### Languages and Tools:
+
+[<code>
+<img alt="visual studio code" width="26px" src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png" />
+</code>](https://code.visualstudio.com/)
+[<code>
+<img alt="intellij idea" width="26px" src="https://img.icons8.com/color/240/000000/intellij-idea.png" />
+</code>](https://www.jetbrains.com/idea/)
+[<code>
