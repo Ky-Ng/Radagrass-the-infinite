@@ -66,6 +66,3 @@ Here are some ideas to get you started:
 <img alt="intellij idea" width="75px" src="https://img.icons8.com/color/240/000000/intellij-idea.png" />
 </code>](https://www.jetbrains.com/idea/)
 
-<a href="https://github.com/Future14473/Ultimate-Road-Runner">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Radagrass-the-infinite&repo=Ulltimate-Road-Runner&theme=radical" />
-</a>
