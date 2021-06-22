@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 </code>](https://www.ptc.com/en/products/vuforia)
 [<code>
 <img alt="FIRST Tech Challenge SDK" width="80px" src="https://www.bostontechmom.com/wp-content/uploads/2019/03/FIRST-Logo.gif" />
-</code>](https://www.firstinspires.org/robotics/ftc)
+</code>](https://github.com/FIRST-Tech-Challenge/FtcRobotController)
 [<code>
 <img alt="Android Studio" width="80px" src="https://techcrunch.com/wp-content/uploads/2020/10/image9.png" />
 </code>](https://developer.android.com/studio)
