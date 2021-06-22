@@ -26,9 +26,3 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Radagrass-the-infinite&theme=algolia&show_icons=true)
 
-_NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github_
-
-<a href="https://github-readme-stats.sabesansathananthan.vercel.app/api?username=Radagrass-the-infinite&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical">
-<a href="https://github-readme-stats.sabesansathananthan.vercel.app/api/top-langs/?username=Radagrass-the-infinite&layout=compact&theme=radical">
-  <img align="center" src="https://github-readme-stats.sabesansathananthan.vercel.app/api/top-langs/?username=Radagrass-the-infinite&layout=compact&theme=radical" />
-</a>
