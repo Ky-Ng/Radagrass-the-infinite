@@ -28,22 +28,22 @@ Here are some ideas to get you started:
 
 ### Robotics Languages and Tools:
 [<code>
-<img alt="Java" width="26px" src="https://i.pinimg.com/originals/e9/94/61/e99461fdd5b3db8bdb3081d8acf5e524.png" />
+<img alt="Java" width="50px" src="https://i.pinimg.com/originals/e9/94/61/e99461fdd5b3db8bdb3081d8acf5e524.png" />
 </code>](https://www.java.com/en/)
 [<code>
-<img alt="Open CV" width="26px" src="https://opencv.org/wp-content/uploads/2020/07/cropped-OpenCV_logo_white_600x.png" />
+<img alt="Open CV" width="50px" src="https://opencv.org/wp-content/uploads/2020/07/cropped-OpenCV_logo_white_600x.png" />
 </code>](https://opencv.org)
 [<code>
-<img alt="Learn Road Runner" width="40px" src="https://www.learnroadrunner.com/assets/baby/baby-rr.svg" />
+<img alt="Learn Road Runner" width="50px" src="https://www.learnroadrunner.com/assets/baby/baby-rr.svg" />
 </code>](https://www.learnroadrunner.com)
 [<code>
-<img alt="Vuforia" width="40px" src="https://www.ptc.com/dist/ptc/images/ptc-favicon-144x144-gray.png" />
+<img alt="Vuforia" width="50px" src="https://www.ptc.com/dist/ptc/images/ptc-favicon-144x144-gray.png" />
 </code>](https://www.ptc.com/en/products/vuforia)
 [<code>
-<img alt="FIRST Tech Challenge SDK" width="40px" src="https://www.bostontechmom.com/wp-content/uploads/2019/03/FIRST-Logo.gif" />
+<img alt="FIRST Tech Challenge SDK" width="50px" src="https://www.bostontechmom.com/wp-content/uploads/2019/03/FIRST-Logo.gif" />
 </code>](https://www.firstinspires.org/robotics/ftc)
 [<code>
-<img alt="intellij idea" width="40px" src="https://img.icons8.com/color/240/000000/intellij-idea.png" />
+<img alt="intellij idea" width="50px" src="https://img.icons8.com/color/240/000000/intellij-idea.png" />
 </code>](https://www.jetbrains.com/idea/)
 
 Full Stack Development
