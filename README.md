@@ -27,9 +27,9 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Radagrass-the-infinite&theme=algolia&show_icons=true)
 
 ### Robotics Languages and Tools:
-[<code>
+
 <img alt="Java" width="50px" src="https://i.pinimg.com/originals/e9/94/61/e99461fdd5b3db8bdb3081d8acf5e524.png" />
-</code>](https://www.java.com/en/)
+(https://www.java.com/en/)
 [<code>
 <img alt="Open CV" width="50px" src="https://opencv.org/wp-content/uploads/2020/07/cropped-OpenCV_logo_white_600x.png" />
 </code>](https://opencv.org)
