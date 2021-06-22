@@ -34,16 +34,16 @@ Here are some ideas to get you started:
 <img alt="Open CV" width="26px" src="https://opencv.org/wp-content/uploads/2020/07/cropped-OpenCV_logo_white_600x.png" />
 </code>](https://opencv.org)
 [<code>
-<img alt="Learn Road Runner" width="26px" src="https://www.learnroadrunner.com/assets/baby/baby-rr.svg" />
+<img alt="Learn Road Runner" width="40px" src="https://www.learnroadrunner.com/assets/baby/baby-rr.svg" />
 </code>](https://www.learnroadrunner.com)
 [<code>
-<img alt="Vuforia" width="26px" src="https://www.ptc.com/dist/ptc/images/ptc-favicon-144x144-gray.png" />
+<img alt="Vuforia" width="40px" src="https://www.ptc.com/dist/ptc/images/ptc-favicon-144x144-gray.png" />
 </code>](https://www.ptc.com/en/products/vuforia)
 [<code>
-<img alt="FIRST Tech Challenge SDK" width="26px" src="https://www.bostontechmom.com/wp-content/uploads/2019/03/FIRST-Logo.gif" />
+<img alt="FIRST Tech Challenge SDK" width="40px" src="https://www.bostontechmom.com/wp-content/uploads/2019/03/FIRST-Logo.gif" />
 </code>](https://www.firstinspires.org/robotics/ftc)
 [<code>
-<img alt="intellij idea" width="26px" src="https://img.icons8.com/color/240/000000/intellij-idea.png" />
+<img alt="intellij idea" width="40px" src="https://img.icons8.com/color/240/000000/intellij-idea.png" />
 </code>](https://www.jetbrains.com/idea/)
 
 Full Stack Development
