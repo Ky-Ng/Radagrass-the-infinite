@@ -23,3 +23,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [ATLA Messenger Hawk](mailto:ng.kyle101@gmail.com)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Radagrass-the-infinite is inspired by Radagast-the-Brown from Lord of the Rings but I thought "the-infinite" is far more limitless.
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Radagrass-the-infinite&theme=algolio&show_icons=true)
