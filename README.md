@@ -57,11 +57,11 @@ Here are some ideas to get you started:
 <img alt="Firebase" width="50px" src="https://brandslogos.com/wp-content/uploads/thumbs/firebase-logo-vector.svg" />
 </code>](https://firebase.google.com)
 [<code>
-<img alt="Node JS" width="80px" src="https://cdn.iconscout.com/icon/free/png-512/node-js-1174925.png" />
+<img alt="Node JS" width="70px" src="https://cdn.iconscout.com/icon/free/png-512/node-js-1174925.png" />
 </code>](https://nodejs.org/en/)
 [<code>
-<img alt="Node Package Manager" width="80px" src="https://authy.com/wp-content/uploads/npm-logo.png" />
+<img alt="Node Package Manager" width="70px" src="https://authy.com/wp-content/uploads/npm-logo.png" />
 </code>](https://www.npmjs.com)
 [<code>
-<img alt="intellij idea" width="80px" src="https://img.icons8.com/color/240/000000/intellij-idea.png" />
+<img alt="intellij idea" width="70px" src="https://img.icons8.com/color/240/000000/intellij-idea.png" />
 </code>](https://www.jetbrains.com/idea/)
