@@ -1,4 +1,4 @@
-### I'm Kyle 🙌 (or Radagrass if you're into wizardry🧙)
+### I'm Kyle 🙌 (or Radagrass if you're into wizardry🧙‍♂️)
 
 <!--
 **Radagrass-the-infinite/Radagrass-the-infinite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
