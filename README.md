@@ -57,7 +57,7 @@ Here are some ideas to get you started:
 <img alt="Firebase" width="50px" src="https://brandslogos.com/wp-content/uploads/thumbs/firebase-logo-vector.svg" />
 </code>](https://firebase.google.com)
 [<code>
-<img alt="Node JS" width="80px" src="https://img1.daumcdn.net/thumb/R720x0.q80/?scode=mtistory2&fname=http%3A%2F%2Fcfile29.uf.tistory.com%2Fimage%2F9983CC475C9B21AD0E1F4E" />
+<img alt="Node JS" width="80px" src="https://cdn.iconscout.com/icon/free/png-512/node-js-1174925.png" />
 </code>](https://nodejs.org/en/)
 [<code>
 <img alt="Node Package Manager" width="80px" src="https://authy.com/wp-content/uploads/npm-logo.png" />
