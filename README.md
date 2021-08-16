@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 <img alt="Java" width="50px" src="https://i.pinimg.com/originals/e9/94/61/e99461fdd5b3db8bdb3081d8acf5e524.png" />
 </code>](https://www.java.com/en/)
 [<code>
-<img alt="Open CV" width="50px" src="https://opencv.org/wp-content/uploads/2020/07/cropped-OpenCV_logo_white_600x.png" />
+<img alt="Open CV" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/OpenCV_Logo_with_text_svg_version.svg/1200px-OpenCV_Logo_with_text_svg_version.svg.png" />
 </code>](https://opencv.org)
 [<code>
 <img alt="Learn Road Runner" width="50px" src="https://www.learnroadrunner.com/assets/baby/baby-rr.svg" />
